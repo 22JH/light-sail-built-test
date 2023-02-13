@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbpservice_f=self.webpackChunkbpservice_f||[]).push([[139],{28139:function(e,n,c){c.r(n);var s=c(57689),r=c(30875),a=c(7317),t=c(80184);n.default=function(){var e=(0,s.s0)();return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(a.Z,{className:r.Z.backBtn,onClick:function(){e("/bp")},fontSize:"large"})})}}}]);
+//# sourceMappingURL=139.5345e9e4.chunk.js.map
